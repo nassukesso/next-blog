@@ -15,8 +15,8 @@ function HomePage({ posts }) {
   return (
     <>
       <Head>
-        <title>My Blog</title>
-        <meta name="description" value="This is my blog" />
+        <title>NSS Blog</title>
+        <meta name="description" value="This is the nss blog" />
       </Head>
       <main>
         <h1>My Blog</h1>
